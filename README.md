@@ -11,13 +11,8 @@ Plot shear wave splitting measurements (fast shear-wave orientations) as rose di
 ### Executing program
 
 * You will need separate spreadsheets with columns for longitude, latitudes, and angles
-```
-code blocks for commands
-```
 
 ## Authors
-
-Contributors names and contact info
 
 Veronica Guzman 
 https://twitter.com/verovaleg
