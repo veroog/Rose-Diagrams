@@ -1,5 +1,5 @@
 # Rose-Diagrams
-Plotting rose diagrams or azimuths from earthquake SWS data on a map.
+Plotting rose diagrams or azimuth histograms from earthquake SWS data on a map.
 
 ## Description
 
